@@ -236,6 +236,10 @@ main {
   display: block;
 }
 
+main dd {
+	margin-bottom: 12px;
+}
+
 /* Grouping content
    ========================================================================== */
 /**
